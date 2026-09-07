@@ -1,0 +1,452 @@
+[
+  {
+    "id": "vn_hist_0001",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Ai lãnh đạo chiến thắng Bạch Đằng năm 938?",
+    "answers": [
+      "Ngô Quyền",
+      "Đinh Bộ Lĩnh",
+      "Lê Hoàn",
+      "Lý Thường Kiệt"
+    ],
+    "correct": 0,
+    "explanation": "Ngô Quyền chỉ huy quân dân đánh bại quân Nam Hán trên sông Bạch Đằng năm 938."
+  },
+  {
+    "id": "vn_hist_0002",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Nhà nước Đại Cồ Việt được thành lập dưới triều đại nào?",
+    "answers": [
+      "Nhà Đinh",
+      "Nhà Lý",
+      "Nhà Trần",
+      "Nhà Lê"
+    ],
+    "correct": 0,
+    "explanation": "Năm 968, Đinh Bộ Lĩnh lên ngôi hoàng đế và đặt quốc hiệu là Đại Cồ Việt."
+  },
+  {
+    "id": "vn_hist_0003",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Ai là người dời đô từ Hoa Lư ra Thăng Long năm 1010?",
+    "answers": [
+      "Lý Công Uẩn",
+      "Lý Thường Kiệt",
+      "Trần Thái Tông",
+      "Lê Thánh Tông"
+    ],
+    "correct": 0,
+    "explanation": "Vua Lý Công Uẩn, tức Lý Thái Tổ, dời đô ra Đại La và đổi tên thành Thăng Long năm 1010."
+  },
+  {
+    "id": "vn_hist_0004",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Chiếu dời đô gắn với vị vua nào?",
+    "answers": [
+      "Lý Thái Tổ",
+      "Lý Thái Tông",
+      "Trần Nhân Tông",
+      "Lê Lợi"
+    ],
+    "correct": 0,
+    "explanation": "Chiếu dời đô gắn với vua Lý Thái Tổ khi quyết định dời kinh đô ra Thăng Long."
+  },
+  {
+    "id": "vn_hist_0005",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Trận Như Nguyệt thế kỷ XI gắn liền với danh tướng nào?",
+    "answers": [
+      "Lý Thường Kiệt",
+      "Trần Hưng Đạo",
+      "Nguyễn Huệ",
+      "Lê Lợi"
+    ],
+    "correct": 0,
+    "explanation": "Lý Thường Kiệt chỉ huy cuộc kháng chiến chống Tống và phòng tuyến sông Như Nguyệt."
+  },
+  {
+    "id": "vn_hist_0006",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Nhà Trần ba lần kháng chiến chống quân xâm lược nào?",
+    "answers": [
+      "Nguyên - Mông",
+      "Tống",
+      "Minh",
+      "Thanh"
+    ],
+    "correct": 0,
+    "explanation": "Nhà Trần ba lần kháng chiến chống quân Nguyên - Mông vào các thế kỷ XIII."
+  },
+  {
+    "id": "vn_hist_0007",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Hội nghị Diên Hồng diễn ra dưới triều đại nào?",
+    "answers": [
+      "Nhà Trần",
+      "Nhà Lý",
+      "Nhà Lê",
+      "Nhà Nguyễn"
+    ],
+    "correct": 0,
+    "explanation": "Hội nghị Diên Hồng diễn ra dưới triều Trần, trong bối cảnh chống quân Nguyên - Mông."
+  },
+  {
+    "id": "vn_hist_0008",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Bình Ngô đại cáo gắn với cuộc khởi nghĩa nào?",
+    "answers": [
+      "Lam Sơn",
+      "Tây Sơn",
+      "Yên Thế",
+      "Bãi Sậy"
+    ],
+    "correct": 0,
+    "explanation": "Bình Ngô đại cáo được công bố sau thắng lợi của khởi nghĩa Lam Sơn."
+  },
+  {
+    "id": "vn_hist_0009",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Khởi nghĩa Lam Sơn bắt đầu vào năm nào?",
+    "answers": [
+      "1418",
+      "1407",
+      "1427",
+      "1428"
+    ],
+    "correct": 0,
+    "explanation": "Khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo bắt đầu năm 1418."
+  },
+  {
+    "id": "vn_hist_0010",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Nguyễn Trãi là tác giả của tác phẩm nào dưới đây?",
+    "answers": [
+      "Bình Ngô đại cáo",
+      "Hịch tướng sĩ",
+      "Nam quốc sơn hà",
+      "Chiếu dời đô"
+    ],
+    "correct": 0,
+    "explanation": "Nguyễn Trãi thay Lê Lợi soạn Bình Ngô đại cáo."
+  },
+  {
+    "id": "vn_hist_0011",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Chiến thắng Ngọc Hồi - Đống Đa năm 1789 gắn với vị anh hùng nào?",
+    "answers": [
+      "Quang Trung",
+      "Gia Long",
+      "Lê Lợi",
+      "Trần Hưng Đạo"
+    ],
+    "correct": 0,
+    "explanation": "Quang Trung - Nguyễn Huệ chỉ huy quân Tây Sơn đánh bại quân Thanh vào xuân Kỷ Dậu 1789."
+  },
+  {
+    "id": "vn_hist_0012",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Triều Nguyễn chính thức được thành lập năm nào?",
+    "answers": [
+      "1802",
+      "1789",
+      "1804",
+      "1820"
+    ],
+    "correct": 0,
+    "explanation": "Năm 1802, Nguyễn Ánh lên ngôi, mở đầu triều Nguyễn."
+  },
+  {
+    "id": "vn_hist_0013",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Kinh đô của nhà Nguyễn đặt tại đâu?",
+    "answers": [
+      "Huế",
+      "Thăng Long",
+      "Hoa Lư",
+      "Phú Xuân - Gia Định"
+    ],
+    "correct": 0,
+    "explanation": "Triều Nguyễn đặt kinh đô tại Huế."
+  },
+  {
+    "id": "vn_hist_0014",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "medium",
+    "question": "Phong trào Cần Vương bùng nổ vào năm nào?",
+    "answers": [
+      "1885",
+      "1858",
+      "1873",
+      "1896"
+    ],
+    "correct": 0,
+    "explanation": "Phong trào Cần Vương bùng nổ năm 1885 sau sự kiện kinh thành Huế."
+  },
+  {
+    "id": "vn_hist_0015",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "medium",
+    "question": "Khởi nghĩa Yên Thế gắn liền với tên tuổi của ai?",
+    "answers": [
+      "Hoàng Hoa Thám",
+      "Phan Đình Phùng",
+      "Tôn Thất Thuyết",
+      "Nguyễn Thiện Thuật"
+    ],
+    "correct": 0,
+    "explanation": "Hoàng Hoa Thám, còn gọi là Đề Thám, là lãnh tụ tiêu biểu của khởi nghĩa Yên Thế."
+  },
+  {
+    "id": "vn_hist_0016",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Phong trào Đông Du đầu thế kỷ XX gắn với nhân vật nào?",
+    "answers": [
+      "Phan Bội Châu",
+      "Phan Châu Trinh",
+      "Huỳnh Thúc Kháng",
+      "Nguyễn Thái Học"
+    ],
+    "correct": 0,
+    "explanation": "Phan Bội Châu khởi xướng phong trào Đông Du, đưa thanh niên Việt Nam sang Nhật Bản học tập."
+  },
+  {
+    "id": "vn_hist_0017",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Việt Nam Quốc dân đảng gắn với cuộc khởi nghĩa nào năm 1930?",
+    "answers": [
+      "Yên Bái",
+      "Nam Kỳ",
+      "Bắc Sơn",
+      "Ba Tơ"
+    ],
+    "correct": 0,
+    "explanation": "Khởi nghĩa Yên Bái năm 1930 do Việt Nam Quốc dân đảng tổ chức."
+  },
+  {
+    "id": "vn_hist_0018",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "medium",
+    "question": "Đảng Cộng sản Việt Nam được thành lập vào năm nào?",
+    "answers": [
+      "1930",
+      "1925",
+      "1941",
+      "1945"
+    ],
+    "correct": 0,
+    "explanation": "Đảng Cộng sản Việt Nam được thành lập đầu năm 1930."
+  },
+  {
+    "id": "vn_hist_0019",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Mặt trận Việt Minh được thành lập vào năm nào?",
+    "answers": [
+      "1941",
+      "1930",
+      "1945",
+      "1946"
+    ],
+    "correct": 0,
+    "explanation": "Mặt trận Việt Minh được thành lập năm 1941."
+  },
+  {
+    "id": "vn_hist_0020",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Cách mạng Tháng Tám thành công vào năm nào?",
+    "answers": [
+      "1945",
+      "1946",
+      "1954",
+      "1975"
+    ],
+    "correct": 0,
+    "explanation": "Cách mạng Tháng Tám thành công năm 1945."
+  },
+  {
+    "id": "vn_hist_0021",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Nước Việt Nam Dân chủ Cộng hòa được tuyên bố thành lập vào ngày nào?",
+    "answers": [
+      "2 tháng 9 năm 1945",
+      "19 tháng 8 năm 1945",
+      "6 tháng 1 năm 1946",
+      "7 tháng 5 năm 1954"
+    ],
+    "correct": 0,
+    "explanation": "Ngày 2 tháng 9 năm 1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình."
+  },
+  {
+    "id": "vn_hist_0022",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Chiến dịch Điện Biên Phủ kết thúc thắng lợi vào ngày nào?",
+    "answers": [
+      "7 tháng 5 năm 1954",
+      "2 tháng 9 năm 1945",
+      "19 tháng 12 năm 1946",
+      "21 tháng 7 năm 1954"
+    ],
+    "correct": 0,
+    "explanation": "Chiến dịch Điện Biên Phủ kết thúc thắng lợi ngày 7 tháng 5 năm 1954."
+  },
+  {
+    "id": "vn_hist_0023",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Hiệp định Genève về Đông Dương được ký kết vào năm nào?",
+    "answers": [
+      "1954",
+      "1946",
+      "1968",
+      "1973"
+    ],
+    "correct": 0,
+    "explanation": "Hiệp định Genève về Đông Dương được ký kết năm 1954."
+  },
+  {
+    "id": "vn_hist_0024",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký năm nào?",
+    "answers": [
+      "1973",
+      "1968",
+      "1972",
+      "1975"
+    ],
+    "correct": 0,
+    "explanation": "Hiệp định Paris được ký ngày 27 tháng 1 năm 1973."
+  },
+  {
+    "id": "vn_hist_0025",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Chiến dịch Hồ Chí Minh kết thúc thắng lợi vào năm nào?",
+    "answers": [
+      "1975",
+      "1973",
+      "1976",
+      "1968"
+    ],
+    "correct": 0,
+    "explanation": "Chiến dịch Hồ Chí Minh kết thúc thắng lợi ngày 30 tháng 4 năm 1975."
+  },
+  {
+    "id": "vn_hist_0026",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "medium",
+    "question": "Quốc hội khóa VI quyết định tên nước là Cộng hòa xã hội chủ nghĩa Việt Nam vào năm nào?",
+    "answers": [
+      "1976",
+      "1975",
+      "1986",
+      "1992"
+    ],
+    "correct": 0,
+    "explanation": "Năm 1976, Quốc hội khóa VI quyết định tên nước là Cộng hòa xã hội chủ nghĩa Việt Nam."
+  },
+  {
+    "id": "vn_hist_0027",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "medium",
+    "question": "Đường lối Đổi mới được đề ra tại Đại hội Đảng lần thứ mấy?",
+    "answers": [
+      "Đại hội VI",
+      "Đại hội IV",
+      "Đại hội V",
+      "Đại hội VII"
+    ],
+    "correct": 0,
+    "explanation": "Đường lối Đổi mới được đề ra tại Đại hội VI năm 1986."
+  },
+  {
+    "id": "vn_hist_0028",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Văn Miếu - Quốc Tử Giám được xây dựng đầu tiên dưới triều đại nào?",
+    "answers": [
+      "Nhà Lý",
+      "Nhà Trần",
+      "Nhà Lê",
+      "Nhà Nguyễn"
+    ],
+    "correct": 0,
+    "explanation": "Văn Miếu được xây dựng năm 1070 dưới thời Lý Thánh Tông; Quốc Tử Giám được lập sau đó dưới triều Lý."
+  },
+  {
+    "id": "vn_hist_0029",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Bộ luật Hồng Đức gắn với triều vua nào?",
+    "answers": [
+      "Lê Thánh Tông",
+      "Lê Lợi",
+      "Lê Thái Tổ",
+      "Lê Chiêu Thống"
+    ],
+    "correct": 0,
+    "explanation": "Bộ luật Hồng Đức gắn với thời vua Lê Thánh Tông."
+  },
+  {
+    "id": "vn_hist_0030",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Tên gọi Thăng Long được đặt cho kinh đô Đại La vào năm nào?",
+    "answers": [
+      "1010",
+      "968",
+      "1054",
+      "1226"
+    ],
+    "correct": 0,
+    "explanation": "Năm 1010, Lý Công Uẩn dời đô ra Đại La và đổi tên thành Thăng Long."
+  }
+]

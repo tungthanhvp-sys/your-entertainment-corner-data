@@ -1,0 +1,17 @@
+[
+  {
+    "id": "general_0001",
+    "category": "dia_ly",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Thủ đô của Việt Nam là thành phố nào?",
+    "answers": [
+      "Hà Nội",
+      "Huế",
+      "Đà Nẵng",
+      "Thành phố Hồ Chí Minh"
+    ],
+    "correct": 0,
+    "explanation": "Hà Nội là thủ đô của Việt Nam."
+  }
+]

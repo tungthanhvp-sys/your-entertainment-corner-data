@@ -1,0 +1,26 @@
+[
+  {
+    "id": "keyword_0001",
+    "category": "lich_su_viet_nam",
+    "answer": "Bạch Đằng",
+    "clues": [
+      "Một địa danh gắn với nhiều chiến thắng chống ngoại xâm trong lịch sử Việt Nam.",
+      "Năm 938, Ngô Quyền giành chiến thắng lớn tại đây.",
+      "Nơi này gắn với chiến thuật cọc gỗ trên sông.",
+      "Tên gồm hai tiếng, tiếng đầu là Bạch."
+    ],
+    "explanation": "Bạch Đằng là địa danh gắn với các chiến thắng lớn trong lịch sử, nổi bật là chiến thắng năm 938 của Ngô Quyền."
+  },
+  {
+    "id": "keyword_0002",
+    "category": "lich_su_viet_nam",
+    "answer": "Thăng Long",
+    "clues": [
+      "Đây là tên lịch sử của một kinh đô Việt Nam.",
+      "Tên này gắn với quyết định dời đô năm 1010.",
+      "Lý Công Uẩn đã đặt tên này cho kinh đô mới.",
+      "Tên gồm hai tiếng, tiếng đầu là Thăng."
+    ],
+    "explanation": "Thăng Long là tên kinh đô được Lý Công Uẩn đặt năm 1010."
+  }
+]

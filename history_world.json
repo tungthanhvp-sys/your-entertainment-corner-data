@@ -1,0 +1,47 @@
+[
+  {
+    "id": "world_hist_0001",
+    "category": "lich_su_the_gioi",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Kim tự tháp Giza gắn với nền văn minh cổ đại nào?",
+    "answers": [
+      "Ai Cập",
+      "Hy Lạp",
+      "La Mã",
+      "Lưỡng Hà"
+    ],
+    "correct": 0,
+    "explanation": "Kim tự tháp Giza là công trình tiêu biểu của Ai Cập cổ đại."
+  },
+  {
+    "id": "world_hist_0002",
+    "category": "lich_su_the_gioi",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Cách mạng Pháp bùng nổ vào năm nào?",
+    "answers": [
+      "1789",
+      "1776",
+      "1815",
+      "1848"
+    ],
+    "correct": 0,
+    "explanation": "Cách mạng Pháp bùng nổ năm 1789."
+  },
+  {
+    "id": "world_hist_0003",
+    "category": "lich_su_the_gioi",
+    "round": "chinh_phuc",
+    "difficulty": "medium",
+    "question": "Chiến tranh thế giới thứ hai kết thúc vào năm nào?",
+    "answers": [
+      "1945",
+      "1939",
+      "1944",
+      "1946"
+    ],
+    "correct": 0,
+    "explanation": "Chiến tranh thế giới thứ hai kết thúc năm 1945."
+  }
+]
