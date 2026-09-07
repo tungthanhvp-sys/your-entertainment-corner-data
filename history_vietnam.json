@@ -448,5 +448,221 @@
     ],
     "correct": 0,
     "explanation": "Năm 1010, Lý Công Uẩn dời đô ra Đại La và đổi tên thành Thăng Long."
+  },
+  {
+    "id": "vn_hist_0031",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Vị vua nào là người sáng lập ra nhà Tiền Lê?",
+    "answers": [
+      "Lê Hoàn",
+      "Lê Thánh Tông",
+      "Lê Lợi",
+      "Lê Thái Tông"
+    ],
+    "correct": 0,
+    "explanation": "Lê Hoàn là người sáng lập nhà Tiền Lê sau khi lên ngôi vua, lấy hiệu là Lê Đại Hành.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0032",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Ai là người lãnh đạo cuộc khởi nghĩa Hai Bà Trưng chống lại nhà Hán?",
+    "answers": [
+      "Trưng Trắc và Triệu Thị Trinh",
+      "Trưng Trắc và Trưng Nhị",
+      "Lê Chân và Trưng Nhị",
+      "Triệu Thị Trinh và Lê Chân"
+    ],
+    "correct": 1,
+    "explanation": "Hai Bà Trưng là hai chị em Trưng Trắc và Trưng Nhị, những người lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Hán.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0033",
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Chiến thắng nào của quân dân nhà Trần đã đánh bại hoàn toàn quân Nguyên Mông trên sông Bạch Đằng năm 1288?",
+    "answers": [
+      "Trận Bạch Đằng",
+      "Trận Ngọc Hồi",
+      "Trận Chi Lăng",
+      "Trận Rạch Gầm"
+    ],
+    "correct": 0,
+    "explanation": "Trận Bạch Đằng năm 1288 là chiến thắng quyết định của quân dân nhà Trần trước quân Nguyên Mông.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0034",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Vị vua nào đã cho xây dựng Văn Miếu tại Thăng Long vào năm 1070?",
+    "answers": [
+      "Lý Anh Tông",
+      "Lý Nhân Tông",
+      "Lý Thái Tổ",
+      "Lý Thánh Tông"
+    ],
+    "correct": 3,
+    "explanation": "Vua Lý Thánh Tông là người cho xây dựng Văn Miếu vào năm 1070 để thờ Khổng Tử và dạy học cho hoàng thái tử.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0035",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Tác phẩm 'Nam quốc sơn hà' được coi là bản tuyên ngôn độc lập đầu tiên của Việt Nam gắn liền với sự kiện nào?",
+    "answers": [
+      "Kháng chiến chống Nguyên Mông",
+      "Khởi nghĩa Lam Sơn",
+      "Kháng chiến chống Tống lần thứ hai",
+      "Khởi nghĩa Hai Bà Trưng"
+    ],
+    "correct": 2,
+    "explanation": "Bài thơ thần 'Nam quốc sơn hà' vang lên trên sông Như Nguyệt trong cuộc kháng chiến chống Tống lần thứ hai dưới thời Lý Thường Kiệt.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0036",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Triều đại nào được coi là thời kỳ đỉnh cao của chế độ phong kiến Việt Nam với bộ luật Hồng Đức?",
+    "answers": [
+      "Nhà Lê sơ",
+      "Nhà Nguyễn",
+      "Nhà Lý",
+      "Nhà Trần"
+    ],
+    "correct": 0,
+    "explanation": "Nhà Lê sơ, đặc biệt dưới thời vua Lê Thánh Tông, là thời kỳ phát triển rực rỡ nhất của chế độ phong kiến với bộ luật Hồng Đức.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0037",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Ai là người đã lãnh đạo phong trào Tây Sơn lật đổ chúa Nguyễn ở Đàng Trong và chúa Trịnh ở Đàng Ngoài?",
+    "answers": [
+      "Nguyễn Nhạc",
+      "Nguyễn Huệ",
+      "Nguyễn Lữ",
+      "Nguyễn Ánh"
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Huệ (Quang Trung) là vị tướng kiệt xuất của phong trào Tây Sơn, người đã thống nhất đất nước.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0038",
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Sự kiện nào đánh dấu sự chấm dứt hoàn toàn của chế độ phong kiến tại Việt Nam vào năm 1945?",
+    "answers": [
+      "Thành lập nước Việt Nam Dân chủ Cộng hòa",
+      "Chiến thắng Điện Biên Phủ",
+      "Cách mạng Tháng Tám thành công",
+      "Vua Bảo Đại thoái vị"
+    ],
+    "correct": 3,
+    "explanation": "Việc vua Bảo Đại thoái vị ngày 30/8/1945 đã chấm dứt triều đại phong kiến cuối cùng trong lịch sử Việt Nam.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0039",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Trong lịch sử Việt Nam, 'Hội thề Lũng Nhai' là sự kiện mở đầu cho cuộc khởi nghĩa nào?",
+    "answers": [
+      "Khởi nghĩa Yên Thế",
+      "Khởi nghĩa Tây Sơn",
+      "Khởi nghĩa Ba Đình",
+      "Khởi nghĩa Lam Sơn"
+    ],
+    "correct": 3,
+    "explanation": "Hội thề Lũng Nhai diễn ra năm 1416, là sự kiện Lê Lợi cùng các tướng lĩnh thề quyết tâm đánh đuổi giặc Minh.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0040",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Vị vua nào của nhà Nguyễn đã cho xây dựng kinh thành Huế?",
+    "answers": [
+      "Vua Tự Đức",
+      "Vua Thiệu Trị",
+      "Vua Minh Mạng",
+      "Vua Gia Long"
+    ],
+    "correct": 3,
+    "explanation": "Vua Gia Long là người bắt đầu xây dựng kinh thành Huế từ năm 1805 sau khi lên ngôi.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0041",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Tên gọi 'Đại Việt' được đặt cho quốc hiệu nước ta dưới triều đại nào?",
+    "answers": [
+      "Nhà Trần",
+      "Nhà Tiền Lê",
+      "Nhà Lý",
+      "Nhà Đinh"
+    ],
+    "correct": 2,
+    "explanation": "Năm 1054, vua Lý Thánh Tông đổi tên nước từ Đại Cồ Việt thành Đại Việt.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "vn_hist_0042",
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Ai là người đã soạn thảo bản 'Tuyên ngôn Độc lập' khai sinh ra nước Việt Nam Dân chủ Cộng hòa?",
+    "answers": [
+      "Trường Chinh",
+      "Phạm Văn Đồng",
+      "Hồ Chí Minh",
+      "Võ Nguyên Giáp"
+    ],
+    "correct": 2,
+    "explanation": "Chủ tịch Hồ Chí Minh là người trực tiếp soạn thảo và đọc bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình ngày 2/9/1945.",
+    "sources": [],
+    "generated_at": "2026-09-07",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]

@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "data_version": 1,
+  "data_version": 2,
   "updated_at": "2026-09-07",
   "minimum_app_version": "0.16.4",
   "packs": [
     {
       "id": "history_vietnam",
       "file": "history_vietnam.json",
-      "version": 1,
+      "version": 2,
       "priority": 1,
       "enabled": true
     },
