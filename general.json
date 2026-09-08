@@ -13,5 +13,141 @@
     ],
     "correct": 0,
     "explanation": "Hà Nội là thủ đô của Việt Nam."
+  },
+  {
+    "category": "khoa_hoc",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Hành tinh nào trong hệ Mặt Trời được mệnh danh là 'Hành tinh Đỏ'?",
+    "answers": [
+      "Sao Hỏa",
+      "Sao Mộc",
+      "Sao Thổ",
+      "Sao Kim"
+    ],
+    "correct": 0,
+    "explanation": "Sao Hỏa có bề mặt chứa nhiều sắt oxit nên nhìn từ xa có màu đỏ đặc trưng.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0002"
+  },
+  {
+    "category": "dia_ly",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Đỉnh núi nào cao nhất Việt Nam và được mệnh danh là 'Nóc nhà Đông Dương'?",
+    "answers": [
+      "Fansipan",
+      "Pu Si Lung",
+      "Ngọc Linh",
+      "Pu Ta Leng"
+    ],
+    "correct": 0,
+    "explanation": "Đỉnh Fansipan thuộc dãy Hoàng Liên Sơn có độ cao 3.143 mét, là đỉnh núi cao nhất Việt Nam.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0003"
+  },
+  {
+    "category": "sinh_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Loài động vật nào có tốc độ chạy nhanh nhất trên cạn?",
+    "answers": [
+      "Linh dương",
+      "Sư tử",
+      "Ngựa vằn",
+      "Báo săn"
+    ],
+    "correct": 3,
+    "explanation": "Báo săn (Cheetah) là loài động vật chạy nhanh nhất trên cạn, có thể đạt vận tốc trên 100 km/h.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0004"
+  },
+  {
+    "category": "van_hoc",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Tác phẩm 'Truyện Kiều' của Nguyễn Du được viết bằng loại chữ nào?",
+    "answers": [
+      "Chữ Hán",
+      "Chữ Phạn",
+      "Chữ Nôm",
+      "Chữ Quốc ngữ"
+    ],
+    "correct": 2,
+    "explanation": "Truyện Kiều là kiệt tác văn học viết bằng chữ Nôm theo thể thơ lục bát.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0005"
+  },
+  {
+    "category": "cong_nghe",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Đơn vị cơ bản nhất để đo lượng thông tin trong máy tính là gì?",
+    "answers": [
+      "Byte",
+      "Kilobyte",
+      "Bit",
+      "Megabyte"
+    ],
+    "correct": 2,
+    "explanation": "Bit là đơn vị nhỏ nhất trong hệ thống nhị phân, chỉ có hai giá trị là 0 hoặc 1.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0006"
+  },
+  {
+    "category": "am_nhac",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Nhạc cụ nào sau đây thuộc bộ dây?",
+    "answers": [
+      "Sáo",
+      "Trống",
+      "Đàn bầu",
+      "Kèn trumpet"
+    ],
+    "correct": 2,
+    "explanation": "Đàn bầu là nhạc cụ dân tộc Việt Nam thuộc bộ dây, chỉ có một dây duy nhất.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0007"
+  },
+  {
+    "category": "toan_hoc",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Số Pi (π) là tỉ số giữa chu vi đường tròn và yếu tố nào của nó?",
+    "answers": [
+      "Cung tròn",
+      "Bán kính",
+      "Đường kính",
+      "Diện tích"
+    ],
+    "correct": 2,
+    "explanation": "Số Pi là hằng số toán học bằng tỉ số giữa chu vi đường tròn và đường kính của nó.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0008"
+  },
+  {
+    "category": "moi_truong",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Hiện tượng Trái Đất nóng lên chủ yếu do sự gia tăng của loại khí nào?",
+    "answers": [
+      "Nitơ",
+      "Oxy",
+      "Hydro",
+      "Cacbonic"
+    ],
+    "correct": 3,
+    "explanation": "Khí Cacbonic (CO2) là nguyên nhân chính gây hiệu ứng nhà kính làm Trái Đất nóng lên.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0009"
   }
 ]

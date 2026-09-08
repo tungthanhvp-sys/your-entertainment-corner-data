@@ -664,5 +664,73 @@
     "sources": [],
     "generated_at": "2026-09-07",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Vị vua nào của nhà Trần đã trực tiếp chỉ huy quân dân đánh bại quân Nguyên Mông lần thứ hai và thứ ba?",
+    "answers": [
+      "Trần Anh Tông",
+      "Trần Nhân Tông",
+      "Trần Thái Tông",
+      "Trần Thánh Tông"
+    ],
+    "correct": 1,
+    "explanation": "Vua Trần Nhân Tông là người lãnh đạo cuộc kháng chiến chống quân Nguyên Mông lần thứ hai và thứ ba thắng lợi.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0043"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Cuộc khởi nghĩa nào được coi là cuộc khởi nghĩa tiêu biểu nhất trong phong trào Cần Vương cuối thế kỷ 19?",
+    "answers": [
+      "Khởi nghĩa Hương Khê",
+      "Khởi nghĩa Hùng Lĩnh",
+      "Khởi nghĩa Ba Đình",
+      "Khởi nghĩa Bãi Sậy"
+    ],
+    "correct": 0,
+    "explanation": "Khởi nghĩa Hương Khê do Phan Đình Phùng lãnh đạo là cuộc khởi nghĩa có quy mô lớn và kéo dài nhất trong phong trào Cần Vương.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0044"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Ai là người đã dâng 'Thất trảm sớ' xin chém 7 tên nịnh thần dưới triều vua Trần Dụ Tông?",
+    "answers": [
+      "Lê Quý Đôn",
+      "Chu Văn An",
+      "Nguyễn Trãi",
+      "Ngô Sĩ Liên"
+    ],
+    "correct": 1,
+    "explanation": "Thầy giáo Chu Văn An đã dâng sớ xin chém 7 tên nịnh thần nhưng không được vua nghe nên ông đã từ quan về ở ẩn.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0045"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Năm 1858, thực dân Pháp nổ súng tấn công Đà Nẵng, mở đầu cuộc xâm lược Việt Nam dưới triều vua nào?",
+    "answers": [
+      "Vua Hàm Nghi",
+      "Vua Thiệu Trị",
+      "Vua Tự Đức",
+      "Vua Minh Mạng"
+    ],
+    "correct": 2,
+    "explanation": "Năm 1858, liên quân Pháp - Tây Ban Nha tấn công Đà Nẵng dưới thời vua Tự Đức.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0046"
   }
 ]

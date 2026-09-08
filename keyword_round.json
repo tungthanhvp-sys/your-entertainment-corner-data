@@ -22,5 +22,37 @@
       "Tên gồm hai tiếng, tiếng đầu là Thăng."
     ],
     "explanation": "Thăng Long là tên kinh đô được Lý Công Uẩn đặt năm 1010."
+  },
+  {
+    "id": "keyword_0003",
+    "category": "dia_ly",
+    "answer": "MEKONG",
+    "letter_count": 6,
+    "difficulty": "medium",
+    "clues": [
+      "Là con sông dài nhất Đông Nam Á",
+      "Chảy qua 6 quốc gia",
+      "Đổ ra biển Đông qua 9 cửa sông",
+      "Là dòng sông mẹ của người dân Nam Bộ"
+    ],
+    "explanation": "Sông Mê Kông là dòng sông lớn nhất khu vực, chảy qua nhiều nước và bồi đắp phù sa cho đồng bằng sông Cửu Long.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0004",
+    "category": "khoa_hoc",
+    "answer": "OXY",
+    "letter_count": 3,
+    "difficulty": "medium",
+    "clues": [
+      "Là nguyên tố hóa học phổ biến thứ ba trong vũ trụ",
+      "Chiếm khoảng 21% thể tích khí quyển Trái Đất",
+      "Cần thiết cho quá trình hô hấp của con người",
+      "Ký hiệu hóa học là chữ O"
+    ],
+    "explanation": "Oxy là khí duy trì sự sống cho hầu hết các sinh vật trên Trái Đất.",
+    "generated_at": "2026-09-08",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]
