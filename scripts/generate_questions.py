@@ -52,17 +52,69 @@ def save_json(path, value):
 
 
 def extract_json(text):
+    """Parse Gemini JSON robustly, including concatenated JSON objects.
+
+    Gemini can occasionally return a valid JSON object followed by a second JSON
+    object or a short trailing note. ``json.loads`` then raises "Extra data".
+    This parser uses ``raw_decode`` to read every valid top-level JSON value and
+    merges the fields this workflow needs.
+    """
     text = (text or "").strip()
-    if text.startswith("```"):
-        text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.I)
-        text = re.sub(r"\s*```$", "", text)
-    try:
-        return json.loads(text)
-    except json.JSONDecodeError:
-        start, end = text.find("{"), text.rfind("}")
-        if start < 0 or end < start:
-            raise ValueError("Gemini did not return JSON")
-        return json.loads(text[start:end + 1])
+    if not text:
+        raise ValueError("Gemini returned an empty response")
+
+    # Remove Markdown fences wherever Gemini added them despite JSON mode.
+    text = re.sub(r"```(?:json)?", "", text, flags=re.I).replace("```", "").strip()
+
+    decoder = json.JSONDecoder()
+    values = []
+    pos = 0
+
+    while pos < len(text):
+        # Skip whitespace and any non-JSON trailing prose until the next object/array.
+        starts = [i for i in (text.find("{", pos), text.find("[", pos)) if i >= 0]
+        if not starts:
+            break
+        start = min(starts)
+        try:
+            value, consumed = decoder.raw_decode(text[start:])
+            values.append(value)
+            pos = start + consumed
+        except json.JSONDecodeError:
+            # The current brace may belong to prose. Try the next possible start.
+            pos = start + 1
+
+    if not values:
+        raise ValueError("Gemini did not return valid JSON")
+
+    # Normal expected case: one complete object.
+    if len(values) == 1 and isinstance(values[0], dict):
+        return values[0]
+
+    # If Gemini split questions and keyword puzzles into separate JSON objects,
+    # merge them instead of failing with "Extra data".
+    merged = {"questions": [], "keyword_puzzles": []}
+    found_expected = False
+
+    for value in values:
+        if isinstance(value, dict):
+            if isinstance(value.get("questions"), list):
+                merged["questions"].extend(value["questions"])
+                found_expected = True
+            if isinstance(value.get("keyword_puzzles"), list):
+                merged["keyword_puzzles"].extend(value["keyword_puzzles"])
+                found_expected = True
+        elif isinstance(value, list):
+            # Defensive fallback: if the model returned only a bare list, treat it
+            # as questions; normal validation below will discard malformed entries.
+            merged["questions"].extend(value)
+            found_expected = True
+
+    if found_expected:
+        return merged
+
+    # Preserve a useful error rather than silently accepting unrelated JSON.
+    raise ValueError("Gemini JSON did not contain questions or keyword_puzzles")
 
 
 def next_numeric_id(items, prefix):
