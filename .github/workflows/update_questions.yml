@@ -1,13 +1,12 @@
-name: Auto update history questions
+name: Auto update knowledge questions
 
 on:
   schedule:
-    # 02:17 UTC Monday = 09:17 Monday in Viet Nam (UTC+7)
     - cron: "17 2 * * 1"
   workflow_dispatch:
     inputs:
       count:
-        description: "Number of new Vietnam-history questions"
+        description: "Number of new multiple-choice questions"
         required: false
         default: "12"
 
@@ -30,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate new history questions
+      - name: Generate mixed knowledge questions and keyword puzzles
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           QUESTION_COUNT: ${{ inputs.count || '12' }}
@@ -42,11 +41,11 @@ jobs:
       - name: Commit and push if changed
         run: |
           if git diff --quiet; then
-            echo "No question changes to commit."
+            echo "No data changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add manifest.json history_vietnam.json
-          git commit -m "Auto-update history questions"
+          git add manifest.json history_vietnam.json general.json keyword_round.json
+          git commit -m "Auto-update mixed knowledge questions"
           git push
