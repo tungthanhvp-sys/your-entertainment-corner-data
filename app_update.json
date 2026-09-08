@@ -1,7 +1,7 @@
 {
-  "version_code": 21,
-  "version_name": "0.16.4",
-  "apk_url": "",
+  "version_code": 22,
+  "version_name": "0.16.5",
+  "apk_url": "https://github.com/tungthanhvp-sys/your-entertainment-corner-data/releases/download/v0.16.5/YourEntertainmentCorner-0.16.5.apk",
   "sha256": "",
-  "release_notes": "Bản hiện tại. Khi có bản mới, tăng version_code và điền đường dẫn HTTPS trực tiếp tới APK."
+  "release_notes": "Nâng cấp game: tự chuyển câu hỏi, bắt buộc hoàn thành từng vòng, câu hỏi khó và đa lĩnh vực hơn, nâng cấp vòng Giải mã chướng ngại vật; giữ các cải tiến đọc nền và DTV/PDF."
 }
