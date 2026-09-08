@@ -1,7 +1,7 @@
 {
   "version_code": 24,
   "version_name": "0.16.7",
-  "apk_url": "https://github.com/tungthanhvp-sys/your-entertainment-corner-data/releases/download/v0.16.7/YourEntertainmentCorner-0.16.7.apk",
+  "apk_url": "https://github.com/tungthanhvp-sys/your-entertainment-corner-data/releases/download/v0.16.7/YourEntertainmentCorner_0.16.7_PaperBook_SearchVoice_UpdatePrompt.apk",
   "sha256": "",
   "release_notes": "Nâng cấp Đọc sách giấy: tự căn trang và tự chụp nhanh hơn, hiển thị chữ OCR ngay trên màn hình, tự dùng Gemini khi ảnh khó đọc, đồng bộ tốc độ và cao độ TTS với phần đọc truyện; cải thiện tìm kiếm ưu tiên tên sách và thêm nhập tên sách bằng giọng nói; tiếp tục cải thiện thông báo cập nhật ứng dụng."
 }
