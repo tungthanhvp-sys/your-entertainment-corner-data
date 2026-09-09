@@ -1,7 +1,7 @@
 {
-  "version_code": 25,
-  "version_name": "0.16.8",
-  "apk_url": "https://github.com/tungthanhvp-sys/your-entertainment-corner-data/releases/download/v0.16.8/YourEntertainmentCorner_0.16.8.apk",
-  "sha256": "481f0bdd91cad3915a9a47901521a2ea6a9e03e44102f98ae0c4b87c1d3b6b91",
-  "release_notes": "Cải thiện Đọc sách giấy theo hướng ổn định và dễ sử dụng hơn với TalkBack: tự căn trang, tự chụp khi trang ổn định, OCR bằng ML Kit và dùng Gemini hỗ trợ cho trang khó khi đã cấu hình API key. Không có Gemini API key, Đọc sách giấy vẫn hoạt động bằng OCR tại máy. Giữ các cải tiến về hiển thị OCR, TTS, tìm kiếm và nhập tên sách bằng giọng nói."
+  "version_code": 29,
+  "version_name": "0.17.2",
+  "apk_url": "https://github.com/tungthanhvp-sys/your-entertainment-corner-data/releases/download/v0.17.2/YourEntertainmentCorner_0.17.2.apk",
+  "sha256": "",
+  "release_notes": "Phiên bản 0.17.2 tập trung ổn định lại phần DTV/PDF và thông tin tác giả, đồng thời giữ các cải tiến về tự động chuyển chương, tải trước chương kế tiếp, đọc nền, sắp xếp nút điều khiển gọn hơn, danh sách truyện mới cập nhật và Đọc sách giấy với các chế độ Tự động, 1 trang và 2 trang."
 }
