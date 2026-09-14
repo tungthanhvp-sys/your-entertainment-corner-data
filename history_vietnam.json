@@ -732,5 +732,73 @@
     "generated_at": "2026-09-08",
     "generation_mode": "gemini_no_web_grounding",
     "id": "vn_hist_0046"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Vị vua nào đã ban hành 'Chiếu dời đô' để chuyển kinh đô từ Hoa Lư về Thăng Long?",
+    "answers": [
+      "Lý Thái Tổ",
+      "Đinh Tiên Hoàng",
+      "Lê Đại Hành",
+      "Lý Thái Tông"
+    ],
+    "correct": 0,
+    "explanation": "Lý Thái Tổ là vị vua sáng lập nhà Lý, ông đã ban hành Chiếu dời đô năm 1010.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0047"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Ai là người chỉ huy quân đội nhà Trần đánh bại quân Nguyên trong trận Vạn Kiếp năm 1285?",
+    "answers": [
+      "Trần Hưng Đạo",
+      "Trần Khánh Dư",
+      "Trần Quang Khải",
+      "Trần Nhật Duật"
+    ],
+    "correct": 0,
+    "explanation": "Trần Hưng Đạo là vị tướng kiệt xuất, người chỉ huy quân dân nhà Trần trong các cuộc kháng chiến chống quân Nguyên.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0048"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Cuộc khởi nghĩa nào do Phan Đình Phùng lãnh đạo trong phong trào Cần Vương?",
+    "answers": [
+      "Khởi nghĩa Yên Thế",
+      "Khởi nghĩa Ba Đình",
+      "Khởi nghĩa Bãi Sậy",
+      "Khởi nghĩa Hương Khê"
+    ],
+    "correct": 3,
+    "explanation": "Khởi nghĩa Hương Khê là cuộc khởi nghĩa tiêu biểu nhất trong phong trào Cần Vương do Phan Đình Phùng lãnh đạo.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0049"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Năm 1946, Hiệp định Sơ bộ được ký kết giữa Chính phủ Việt Nam Dân chủ Cộng hòa và quốc gia nào?",
+    "answers": [
+      "Trung Quốc",
+      "Pháp",
+      "Nhật",
+      "Mỹ"
+    ],
+    "correct": 1,
+    "explanation": "Hiệp định Sơ bộ ngày 6/3/1946 được ký giữa Chủ tịch Hồ Chí Minh và đại diện Chính phủ Pháp là Jean Sainteny.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0050"
   }
 ]

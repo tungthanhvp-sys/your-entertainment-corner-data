@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "data_version": 3,
-  "updated_at": "2026-09-08",
+  "data_version": 4,
+  "updated_at": "2026-09-14",
   "minimum_app_version": "0.16.4",
   "packs": [
     {
       "id": "history_vietnam",
       "file": "history_vietnam.json",
-      "version": 3,
+      "version": 4,
       "priority": 1,
       "enabled": true
     },
@@ -21,14 +21,14 @@
     {
       "id": "general",
       "file": "general.json",
-      "version": 2,
+      "version": 3,
       "priority": 3,
       "enabled": true
     },
     {
       "id": "keyword_round",
       "file": "keyword_round.json",
-      "version": 2,
+      "version": 3,
       "priority": 1,
       "enabled": true
     }

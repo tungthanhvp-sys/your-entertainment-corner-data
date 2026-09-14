@@ -54,5 +54,37 @@
     "explanation": "Oxy là khí duy trì sự sống cho hầu hết các sinh vật trên Trái Đất.",
     "generated_at": "2026-09-08",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0005",
+    "category": "dia_ly",
+    "answer": "TRUONGSA",
+    "letter_count": 8,
+    "difficulty": "medium",
+    "clues": [
+      "Là một quần đảo thuộc chủ quyền Việt Nam",
+      "Nằm ở khu vực Biển Đông",
+      "Có nhiều đảo san hô",
+      "Tên gọi gắn liền với Hoàng Sa"
+    ],
+    "explanation": "Quần đảo Trường Sa là một phần lãnh thổ thiêng liêng của Việt Nam.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0006",
+    "category": "khoa_hoc",
+    "answer": "DIENTICH",
+    "letter_count": 8,
+    "difficulty": "medium",
+    "clues": [
+      "Là đại lượng đo lường bề mặt",
+      "Đơn vị thường là mét vuông",
+      "Dùng để tính diện tích đất đai",
+      "Công thức hình chữ nhật là dài nhân rộng"
+    ],
+    "explanation": "Diện tích là đại lượng biểu thị độ lớn của bề mặt hình phẳng.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]

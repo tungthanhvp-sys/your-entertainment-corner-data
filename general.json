@@ -149,5 +149,141 @@
     "generated_at": "2026-09-08",
     "generation_mode": "gemini_no_web_grounding",
     "id": "general_0009"
+  },
+  {
+    "category": "dia_ly",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Quốc gia nào có diện tích lớn nhất thế giới?",
+    "answers": [
+      "Canada",
+      "Trung Quốc",
+      "Nga",
+      "Mỹ"
+    ],
+    "correct": 2,
+    "explanation": "Nga là quốc gia có diện tích lãnh thổ lớn nhất thế giới, trải dài trên cả châu Âu và châu Á.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0010"
+  },
+  {
+    "category": "khoa_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Nguyên tố hóa học nào chiếm tỉ lệ cao nhất trong bầu khí quyển Trái Đất?",
+    "answers": [
+      "Nitơ",
+      "Cacbonic",
+      "Argon",
+      "Oxy"
+    ],
+    "correct": 0,
+    "explanation": "Nitơ chiếm khoảng 78% thể tích bầu khí quyển Trái Đất.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0011"
+  },
+  {
+    "category": "van_hoc",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Tác phẩm 'Số đỏ' là tiểu thuyết nổi tiếng của nhà văn nào?",
+    "answers": [
+      "Ngô Tất Tố",
+      "Nguyễn Công Hoan",
+      "Nam Cao",
+      "Vũ Trọng Phụng"
+    ],
+    "correct": 3,
+    "explanation": "Số đỏ là tác phẩm trào phúng xuất sắc của nhà văn Vũ Trọng Phụng.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0012"
+  },
+  {
+    "category": "toan_hoc",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Trong hình học, tổng các góc trong của một tam giác phẳng bằng bao nhiêu độ?",
+    "answers": [
+      "180 độ",
+      "360 độ",
+      "270 độ",
+      "90 độ"
+    ],
+    "correct": 0,
+    "explanation": "Tổng các góc trong của một tam giác trong hình học Euclid luôn bằng 180 độ.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0013"
+  },
+  {
+    "category": "thien_van",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Hành tinh nào được gọi là 'hành tinh khí khổng lồ' lớn nhất trong hệ Mặt Trời?",
+    "answers": [
+      "Sao Thiên Vương",
+      "Sao Thổ",
+      "Sao Hải Vương",
+      "Sao Mộc"
+    ],
+    "correct": 3,
+    "explanation": "Sao Mộc là hành tinh lớn nhất trong hệ Mặt Trời và là một hành tinh khí khổng lồ.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0014"
+  },
+  {
+    "category": "sinh_hoc",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Cơ quan nào trong cơ thể người chịu trách nhiệm lọc máu và loại bỏ chất thải?",
+    "answers": [
+      "Tim",
+      "Thận",
+      "Gan",
+      "Phổi"
+    ],
+    "correct": 1,
+    "explanation": "Thận đóng vai trò quan trọng trong việc lọc máu và bài tiết chất thải qua nước tiểu.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0015"
+  },
+  {
+    "category": "cong_nghe",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Ngôn ngữ lập trình nào được tạo ra bởi Guido van Rossum?",
+    "answers": [
+      "Ruby",
+      "Java",
+      "C++",
+      "Python"
+    ],
+    "correct": 3,
+    "explanation": "Python là ngôn ngữ lập trình phổ biến do Guido van Rossum phát triển và ra mắt năm 1991.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0016"
+  },
+  {
+    "category": "am_nhac",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Nhạc sĩ nào là tác giả của bài hát 'Tiến quân ca'?",
+    "answers": [
+      "Văn Cao",
+      "Phạm Tuyên",
+      "Trịnh Công Sơn",
+      "Lưu Hữu Phước"
+    ],
+    "correct": 0,
+    "explanation": "Nhạc sĩ Văn Cao là tác giả của bài hát Tiến quân ca, được chọn làm Quốc ca Việt Nam.",
+    "generated_at": "2026-09-14",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0017"
   }
 ]
