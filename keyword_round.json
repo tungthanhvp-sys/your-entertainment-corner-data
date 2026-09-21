@@ -86,5 +86,21 @@
     "explanation": "Diện tích là đại lượng biểu thị độ lớn của bề mặt hình phẳng.",
     "generated_at": "2026-09-14",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0007",
+    "category": "khoa_hoc",
+    "answer": "QUANGHOP",
+    "letter_count": 8,
+    "difficulty": "medium",
+    "clues": [
+      "Quá trình tạo ra năng lượng cho thực vật",
+      "Cần ánh sáng mặt trời",
+      "Sản sinh ra khí oxy",
+      "Diễn ra ở lá cây"
+    ],
+    "explanation": "Quang hợp là quá trình thực vật chuyển hóa năng lượng ánh sáng thành năng lượng hóa học.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]

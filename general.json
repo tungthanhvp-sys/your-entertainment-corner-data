@@ -285,5 +285,141 @@
     "generated_at": "2026-09-14",
     "generation_mode": "gemini_no_web_grounding",
     "id": "general_0017"
+  },
+  {
+    "category": "dia_ly",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Đâu là tên của dòng sông dài nhất chảy hoàn toàn trong lãnh thổ Việt Nam?",
+    "answers": [
+      "Sông Hồng",
+      "Sông Đà",
+      "Sông Mã",
+      "Sông Đồng Nai"
+    ],
+    "correct": 3,
+    "explanation": "Sông Đồng Nai là con sông dài nhất chảy hoàn toàn trong lãnh thổ Việt Nam.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0018"
+  },
+  {
+    "category": "khoa_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Trong bảng tuần hoàn, nguyên tố nào có ký hiệu hóa học là Fe?",
+    "answers": [
+      "Sắt",
+      "Nhôm",
+      "Kẽm",
+      "Đồng"
+    ],
+    "correct": 0,
+    "explanation": "Fe là ký hiệu hóa học của nguyên tố Sắt, bắt nguồn từ tiếng Latin là Ferrum.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0019"
+  },
+  {
+    "category": "van_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Tác phẩm 'Tắt đèn' của nhà văn Ngô Tất Tố phản ánh cuộc sống của tầng lớp nào?",
+    "answers": [
+      "Địa chủ",
+      "Trí thức",
+      "Công nhân",
+      "Nông dân"
+    ],
+    "correct": 3,
+    "explanation": "Tác phẩm Tắt đèn phản ánh chân thực cuộc sống khốn cùng của người nông dân Việt Nam trước năm 1945.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0020"
+  },
+  {
+    "category": "thien_van",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Hành tinh nào trong hệ Mặt Trời có thời gian tự quay quanh trục dài hơn thời gian quay quanh Mặt Trời?",
+    "answers": [
+      "Sao Mộc",
+      "Sao Thổ",
+      "Sao Hỏa",
+      "Sao Kim"
+    ],
+    "correct": 3,
+    "explanation": "Sao Kim mất khoảng 243 ngày Trái Đất để tự quay quanh trục, nhưng chỉ mất 225 ngày để quay quanh Mặt Trời.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0021"
+  },
+  {
+    "category": "sinh_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Đơn vị cấu tạo cơ bản nhất của mọi cơ thể sống là gì?",
+    "answers": [
+      "Hệ cơ quan",
+      "Cơ quan",
+      "Mô",
+      "Tế bào"
+    ],
+    "correct": 3,
+    "explanation": "Tế bào là đơn vị cấu trúc và chức năng cơ bản nhất của mọi sinh vật sống.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0022"
+  },
+  {
+    "category": "cong_nghe",
+    "round": "chinh_phuc",
+    "difficulty": "hard",
+    "question": "Giao thức nào được sử dụng để truyền tải các trang web trên Internet?",
+    "answers": [
+      "SMTP",
+      "HTTP",
+      "POP3",
+      "FTP"
+    ],
+    "correct": 1,
+    "explanation": "HTTP (HyperText Transfer Protocol) là giao thức nền tảng để truyền tải dữ liệu trên World Wide Web.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0023"
+  },
+  {
+    "category": "am_nhac",
+    "round": "khoi_dong",
+    "difficulty": "easy",
+    "question": "Nhạc cụ nào sau đây được coi là 'vua của các loại nhạc cụ'?",
+    "answers": [
+      "Piano",
+      "Guitar",
+      "Violin",
+      "Trống"
+    ],
+    "correct": 0,
+    "explanation": "Piano thường được gọi là vua của các loại nhạc cụ nhờ âm vực rộng và khả năng biểu cảm đa dạng.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0024"
+  },
+  {
+    "category": "the_thao",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Đại hội Thể thao Đông Nam Á (SEA Games) được tổ chức bao nhiêu năm một lần?",
+    "answers": [
+      "4 năm",
+      "3 năm",
+      "2 năm",
+      "1 năm"
+    ],
+    "correct": 2,
+    "explanation": "SEA Games là sự kiện thể thao khu vực được tổ chức định kỳ 2 năm một lần.",
+    "generated_at": "2026-09-21",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0025"
   }
 ]
