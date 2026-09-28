@@ -102,5 +102,37 @@
     "explanation": "Quang hợp là quá trình thực vật chuyển hóa năng lượng ánh sáng thành năng lượng hóa học.",
     "generated_at": "2026-09-21",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0008",
+    "category": "khoa_hoc",
+    "answer": "PHOTOSYNTHESIS",
+    "letter_count": 14,
+    "difficulty": "hard",
+    "clues": [
+      "Là quá trình chuyển hóa năng lượng ánh sáng thành năng lượng hóa học.",
+      "Diễn ra chủ yếu ở lá cây.",
+      "Cần có sự tham gia của diệp lục và ánh sáng mặt trời.",
+      "Sản phẩm tạo ra là đường và khí oxy."
+    ],
+    "explanation": "Quang hợp là quá trình thực vật tạo ra thức ăn từ ánh sáng.",
+    "generated_at": "2026-09-28",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0009",
+    "category": "dia_ly",
+    "answer": "ANTARCTICA",
+    "letter_count": 10,
+    "difficulty": "medium",
+    "clues": [
+      "Là một lục địa nằm ở cực nam Trái Đất.",
+      "Nơi đây không có cư dân sinh sống thường xuyên.",
+      "Được bao phủ bởi lớp băng dày quanh năm.",
+      "Là nơi lạnh nhất trên hành tinh."
+    ],
+    "explanation": "Nam Cực là lục địa lạnh giá nhất thế giới.",
+    "generated_at": "2026-09-28",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]
