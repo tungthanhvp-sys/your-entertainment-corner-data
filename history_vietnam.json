@@ -800,5 +800,39 @@
     "generated_at": "2026-09-14",
     "generation_mode": "gemini_no_web_grounding",
     "id": "vn_hist_0050"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Vị vua nào của nhà Trần đã thực hiện chính sách 'vườn không nhà trống' để kháng chiến chống quân Nguyên?",
+    "answers": [
+      "Trần Thánh Tông",
+      "Trần Anh Tông",
+      "Trần Nhân Tông",
+      "Trần Thái Tông"
+    ],
+    "correct": 2,
+    "explanation": "Vua Trần Nhân Tông là người lãnh đạo quân dân Đại Việt trong cuộc kháng chiến chống quân Nguyên lần thứ hai và thứ ba.",
+    "generated_at": "2026-10-05",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0051"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Năm 1428, sau khi đánh đuổi quân Minh, Lê Lợi lên ngôi hoàng đế, đặt tên nước là gì?",
+    "answers": [
+      "Đại Cồ Việt",
+      "Đại Việt",
+      "Đại Nam",
+      "Đại Ngu"
+    ],
+    "correct": 1,
+    "explanation": "Sau khi lên ngôi, Lê Lợi khôi phục quốc hiệu Đại Việt, khẳng định chủ quyền độc lập của dân tộc.",
+    "generated_at": "2026-10-05",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0052"
   }
 ]

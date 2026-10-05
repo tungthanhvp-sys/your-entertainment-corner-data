@@ -421,5 +421,22 @@
     "generated_at": "2026-09-21",
     "generation_mode": "gemini_no_web_grounding",
     "id": "general_0025"
+  },
+  {
+    "category": "dia_ly",
+    "round": "khoi_dong",
+    "difficulty": "medium",
+    "question": "Quốc gia nào có diện tích lớn nhất khu vực Đông Nam Á?",
+    "answers": [
+      "Myanmar",
+      "Việt Nam",
+      "Thái Lan",
+      "Indonesia"
+    ],
+    "correct": 3,
+    "explanation": "Indonesia là quốc gia quần đảo có diện tích lớn nhất Đông Nam Á.",
+    "generated_at": "2026-10-05",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0026"
   }
 ]

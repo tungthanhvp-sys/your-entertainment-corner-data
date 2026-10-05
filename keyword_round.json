@@ -134,5 +134,37 @@
     "explanation": "Nam Cực là lục địa lạnh giá nhất thế giới.",
     "generated_at": "2026-09-28",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0010",
+    "category": "dia_ly",
+    "answer": "SAHARA",
+    "letter_count": 6,
+    "difficulty": "medium",
+    "clues": [
+      "Là sa mạc nóng lớn nhất thế giới",
+      "Nằm ở khu vực Bắc Phi",
+      "Có diện tích khoảng 9 triệu km2",
+      "Tên gọi có nghĩa là sa mạc trong tiếng Ả Rập"
+    ],
+    "explanation": "Sahara là sa mạc nóng lớn nhất thế giới, trải dài trên nhiều quốc gia Bắc Phi.",
+    "generated_at": "2026-10-05",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0011",
+    "category": "khoa_hoc",
+    "answer": "HYDROGEN",
+    "letter_count": 8,
+    "difficulty": "hard",
+    "clues": [
+      "Là nguyên tố nhẹ nhất trong bảng tuần hoàn",
+      "Có ký hiệu hóa học là H",
+      "Chiếm phần lớn khối lượng của Mặt Trời",
+      "Là thành phần chính tạo nên nước khi kết hợp với Oxy"
+    ],
+    "explanation": "Hydrogen là nguyên tố phổ biến nhất trong vũ trụ và là thành phần cấu tạo nên nước.",
+    "generated_at": "2026-10-05",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]
