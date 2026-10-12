@@ -166,5 +166,21 @@
     "explanation": "Hydrogen là nguyên tố phổ biến nhất trong vũ trụ và là thành phần cấu tạo nên nước.",
     "generated_at": "2026-10-05",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0012",
+    "category": "lich_su_viet_nam",
+    "answer": "HOALU",
+    "letter_count": 5,
+    "difficulty": "medium",
+    "clues": [
+      "Kinh đô đầu tiên của nhà nước phong kiến tập quyền Việt Nam",
+      "Nằm tại tỉnh Ninh Bình ngày nay",
+      "Nơi vua Đinh Tiên Hoàng lên ngôi",
+      "Là nơi vua Lý Thái Tổ dời đô đi vào năm 1010"
+    ],
+    "explanation": "Hoa Lư là kinh đô của nước Đại Cồ Việt dưới thời Đinh và Tiền Lê.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]

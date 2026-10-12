@@ -834,5 +834,73 @@
     "generated_at": "2026-10-05",
     "generation_mode": "gemini_no_web_grounding",
     "id": "vn_hist_0052"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Vị vua nào của nhà Lý đã cho xây dựng Văn Miếu - Quốc Tử Giám vào năm 1076?",
+    "answers": [
+      "Lý Nhân Tông",
+      "Lý Anh Tông",
+      "Lý Thánh Tông",
+      "Lý Thái Tổ"
+    ],
+    "correct": 0,
+    "explanation": "Vua Lý Nhân Tông là người cho lập Quốc Tử Giám vào năm 1076, được coi là trường đại học đầu tiên của Việt Nam.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0053"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Ai là người đứng đầu cuộc khởi nghĩa Bãi Sậy trong phong trào Cần Vương?",
+    "answers": [
+      "Đinh Công Tráng",
+      "Hoàng Hoa Thám",
+      "Nguyễn Thiện Thuật",
+      "Phan Đình Phùng"
+    ],
+    "correct": 2,
+    "explanation": "Nguyễn Thiện Thuật là lãnh tụ tiêu biểu của cuộc khởi nghĩa Bãi Sậy, hoạt động chủ yếu ở vùng Hưng Yên.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0054"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Chiến thắng nào của quân Tây Sơn đã đánh tan 5 vạn quân Xiêm năm 1785?",
+    "answers": [
+      "Chiến thắng Chi Lăng",
+      "Chiến thắng Ngọc Hồi",
+      "Chiến thắng Đống Đa",
+      "Chiến thắng Rạch Gầm - Xoài Mút"
+    ],
+    "correct": 3,
+    "explanation": "Chiến thắng Rạch Gầm - Xoài Mút do Nguyễn Huệ chỉ huy đã tiêu diệt hoàn toàn quân xâm lược Xiêm.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0055"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Tên gọi 'Đại Nam' được vua Minh Mạng đặt cho nước ta vào năm nào?",
+    "answers": [
+      "1841",
+      "1858",
+      "1820",
+      "1838"
+    ],
+    "correct": 3,
+    "explanation": "Năm 1838, vua Minh Mạng đổi quốc hiệu nước ta thành Đại Nam.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0056"
   }
 ]

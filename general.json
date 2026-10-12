@@ -438,5 +438,141 @@
     "generated_at": "2026-10-05",
     "generation_mode": "gemini_no_web_grounding",
     "id": "general_0026"
+  },
+  {
+    "category": "dia_ly",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Đâu là tên của hòn đảo lớn nhất Việt Nam?",
+    "answers": [
+      "Lý Sơn",
+      "Phú Quốc",
+      "Cát Bà",
+      "Côn Đảo"
+    ],
+    "correct": 1,
+    "explanation": "Phú Quốc là hòn đảo lớn nhất Việt Nam, nằm trong vịnh Thái Lan.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0027"
+  },
+  {
+    "category": "khoa_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Trong hệ Mặt Trời, hành tinh nào có nhiều vệ tinh tự nhiên nhất?",
+    "answers": [
+      "Sao Thổ",
+      "Sao Mộc",
+      "Sao Hỏa",
+      "Sao Thiên Vương"
+    ],
+    "correct": 0,
+    "explanation": "Sao Thổ hiện được xác nhận là hành tinh có số lượng vệ tinh tự nhiên nhiều nhất trong hệ Mặt Trời.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0028"
+  },
+  {
+    "category": "van_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Tác phẩm 'Vợ chồng A Phủ' là sáng tác của nhà văn nào?",
+    "answers": [
+      "Nam Cao",
+      "Nguyễn Tuân",
+      "Tô Hoài",
+      "Kim Lân"
+    ],
+    "correct": 2,
+    "explanation": "Tô Hoài là tác giả của truyện ngắn nổi tiếng 'Vợ chồng A Phủ', viết về cuộc sống người dân vùng cao Tây Bắc.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0029"
+  },
+  {
+    "category": "toan_hoc",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Số nào được gọi là 'số hoàn hảo' nhỏ nhất?",
+    "answers": [
+      "1",
+      "6",
+      "8",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "Số 6 là số hoàn hảo vì tổng các ước số thực sự của nó (1+2+3) bằng chính nó.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0030"
+  },
+  {
+    "category": "sinh_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Loại vitamin nào cơ thể người có thể tự tổng hợp được nhờ ánh nắng mặt trời?",
+    "answers": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "correct": 2,
+    "explanation": "Da người có thể tổng hợp Vitamin D khi tiếp xúc với tia cực tím từ ánh nắng mặt trời.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0031"
+  },
+  {
+    "category": "am_nhac",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Nhạc sĩ nào được mệnh danh là 'Vua nhạc Pop'?",
+    "answers": [
+      "Freddie Mercury",
+      "Elvis Presley",
+      "Prince",
+      "Michael Jackson"
+    ],
+    "correct": 3,
+    "explanation": "Michael Jackson được công nhận rộng rãi trên toàn thế giới là 'Vua nhạc Pop'.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0032"
+  },
+  {
+    "category": "cong_nghe",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Giao thức nào được sử dụng để gửi email?",
+    "answers": [
+      "SSH",
+      "SMTP",
+      "HTTP",
+      "FTP"
+    ],
+    "correct": 1,
+    "explanation": "SMTP (Simple Mail Transfer Protocol) là giao thức tiêu chuẩn để truyền tải thư điện tử qua Internet.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0033"
+  },
+  {
+    "category": "the_thao",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Đội tuyển bóng đá quốc gia nào đã giành nhiều chức vô địch World Cup nhất?",
+    "answers": [
+      "Argentina",
+      "Ý",
+      "Brazil",
+      "Đức"
+    ],
+    "correct": 2,
+    "explanation": "Brazil là đội tuyển giàu thành tích nhất với 5 lần vô địch World Cup.",
+    "generated_at": "2026-10-12",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0034"
   }
 ]
