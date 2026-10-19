@@ -902,5 +902,22 @@
     "generated_at": "2026-10-12",
     "generation_mode": "gemini_no_web_grounding",
     "id": "vn_hist_0056"
+  },
+  {
+    "category": "lich_su_viet_nam",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Vị vua nào của nhà Lý đã cho thành lập Quốc Tử Giám, trường đại học đầu tiên của Việt Nam?",
+    "answers": [
+      "Lý Thánh Tông",
+      "Lý Nhân Tông",
+      "Lý Anh Tông",
+      "Lý Thái Tổ"
+    ],
+    "correct": 1,
+    "explanation": "Vua Lý Nhân Tông đã cho lập Quốc Tử Giám vào năm 1076 để đào tạo nhân tài cho đất nước.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "vn_hist_0057"
   }
 ]

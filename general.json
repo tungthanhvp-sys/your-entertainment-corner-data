@@ -574,5 +574,141 @@
     "generated_at": "2026-10-12",
     "generation_mode": "gemini_no_web_grounding",
     "id": "general_0034"
+  },
+  {
+    "category": "dia_ly",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Quốc gia nào có đường biên giới trên đất liền dài nhất với Việt Nam?",
+    "answers": [
+      "Lào",
+      "Thái Lan",
+      "Trung Quốc",
+      "Campuchia"
+    ],
+    "correct": 0,
+    "explanation": "Lào là quốc gia có đường biên giới trên đất liền dài nhất với Việt Nam, khoảng 2.337 km.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0035"
+  },
+  {
+    "category": "khoa_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Đơn vị đo cường độ dòng điện trong hệ đo lường quốc tế (SI) là gì?",
+    "answers": [
+      "Watt",
+      "Ampere",
+      "Ohm",
+      "Volt"
+    ],
+    "correct": 1,
+    "explanation": "Ampere (ký hiệu là A) là đơn vị đo cường độ dòng điện.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0036"
+  },
+  {
+    "category": "van_hoc",
+    "round": "tang_toc",
+    "difficulty": "easy",
+    "question": "Tác phẩm 'Dế Mèn phiêu lưu ký' là sáng tác của nhà văn nào?",
+    "answers": [
+      "Nguyễn Nhật Ánh",
+      "Vũ Trọng Phụng",
+      "Nam Cao",
+      "Tô Hoài"
+    ],
+    "correct": 3,
+    "explanation": "Tô Hoài là tác giả của tác phẩm nổi tiếng 'Dế Mèn phiêu lưu ký'.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0037"
+  },
+  {
+    "category": "thien_van",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Vành đai tiểu hành tinh nằm giữa quỹ đạo của hai hành tinh nào?",
+    "answers": [
+      "Mộc Tinh và Thổ Tinh",
+      "Hỏa Tinh và Mộc Tinh",
+      "Thổ Tinh và Thiên Vương Tinh",
+      "Trái Đất và Hỏa Tinh"
+    ],
+    "correct": 1,
+    "explanation": "Vành đai tiểu hành tinh nằm giữa quỹ đạo của Hỏa Tinh (Sao Hỏa) và Mộc Tinh (Sao Mộc).",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0038"
+  },
+  {
+    "category": "sinh_hoc",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Loại tế bào nào trong máu người có chức năng vận chuyển oxy?",
+    "answers": [
+      "Bạch cầu",
+      "Hồng cầu",
+      "Huyết tương",
+      "Tiểu cầu"
+    ],
+    "correct": 1,
+    "explanation": "Hồng cầu chứa hemoglobin có chức năng vận chuyển oxy từ phổi đến các mô trong cơ thể.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0039"
+  },
+  {
+    "category": "cong_nghe",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Trong công nghệ thông tin, thuật ngữ 'Cloud Computing' có nghĩa là gì?",
+    "answers": [
+      "Điện toán đám mây",
+      "Mạng lưới vệ tinh",
+      "Truyền dữ liệu không dây",
+      "Lưu trữ trên đĩa cứng"
+    ],
+    "correct": 0,
+    "explanation": "Cloud Computing dịch sang tiếng Việt là điện toán đám mây, mô hình cung cấp tài nguyên máy tính qua internet.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0040"
+  },
+  {
+    "category": "am_nhac",
+    "round": "tang_toc",
+    "difficulty": "medium",
+    "question": "Nhạc cụ nào được coi là 'nhạc cụ dân tộc' đặc trưng của vùng Tây Nguyên?",
+    "answers": [
+      "Cồng chiêng",
+      "Đàn bầu",
+      "Đàn tranh",
+      "Đàn nhị"
+    ],
+    "correct": 0,
+    "explanation": "Không gian văn hóa Cồng chiêng Tây Nguyên đã được UNESCO công nhận là di sản văn hóa phi vật thể.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0041"
+  },
+  {
+    "category": "toan_hoc",
+    "round": "tang_toc",
+    "difficulty": "hard",
+    "question": "Trong toán học, số nào được gọi là số nguyên tố nhỏ nhất?",
+    "answers": [
+      "2",
+      "3",
+      "0",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "Số 2 là số nguyên tố nhỏ nhất và cũng là số nguyên tố chẵn duy nhất.",
+    "generated_at": "2026-10-19",
+    "generation_mode": "gemini_no_web_grounding",
+    "id": "general_0042"
   }
 ]
