@@ -182,5 +182,21 @@
     "explanation": "Hoa Lư là kinh đô của nước Đại Cồ Việt dưới thời Đinh và Tiền Lê.",
     "generated_at": "2026-10-12",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0013",
+    "category": "dia_ly",
+    "answer": "EVEREST",
+    "letter_count": 7,
+    "difficulty": "medium",
+    "clues": [
+      "Là đỉnh núi cao nhất thế giới so với mực nước biển.",
+      "Nằm trong dãy núi Himalaya.",
+      "Nằm trên biên giới giữa Nepal và Trung Quốc.",
+      "Được mệnh danh là nóc nhà của thế giới."
+    ],
+    "explanation": "Đỉnh Everest có độ cao 8848 mét, là đỉnh núi cao nhất thế giới.",
+    "generated_at": "2026-10-26",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]
