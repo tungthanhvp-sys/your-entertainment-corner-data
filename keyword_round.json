@@ -198,5 +198,37 @@
     "explanation": "Đỉnh Everest có độ cao 8848 mét, là đỉnh núi cao nhất thế giới.",
     "generated_at": "2026-10-26",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0014",
+    "category": "thien_van",
+    "answer": "SAOTHOC",
+    "letter_count": 7,
+    "difficulty": "medium",
+    "clues": [
+      "Là một hành tinh trong hệ Mặt Trời.",
+      "Có hệ thống vành đai rất nổi bật.",
+      "Đứng thứ sáu tính từ Mặt Trời ra.",
+      "Tên gọi khác là hành tinh khí khổng lồ."
+    ],
+    "explanation": "Sao Thổ là hành tinh có hệ thống vành đai lớn và đẹp nhất trong hệ Mặt Trời.",
+    "generated_at": "2026-11-09",
+    "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0015",
+    "category": "van_hoa_viet_nam",
+    "answer": "AODAI",
+    "letter_count": 5,
+    "difficulty": "medium",
+    "clues": [
+      "Là trang phục truyền thống của người Việt.",
+      "Thường được mặc trong các dịp lễ tết, cưới hỏi.",
+      "Có thiết kế xẻ tà hai bên.",
+      "Được coi là biểu tượng văn hóa của phụ nữ Việt Nam."
+    ],
+    "explanation": "Áo dài là trang phục truyền thống mang đậm bản sắc văn hóa Việt Nam.",
+    "generated_at": "2026-11-09",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]
