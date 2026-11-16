@@ -230,5 +230,21 @@
     "explanation": "Áo dài là trang phục truyền thống mang đậm bản sắc văn hóa Việt Nam.",
     "generated_at": "2026-11-09",
     "generation_mode": "gemini_no_web_grounding"
+  },
+  {
+    "id": "keyword_0016",
+    "category": "khoa_hoc",
+    "answer": "NITROGEN",
+    "letter_count": 8,
+    "difficulty": "hard",
+    "clues": [
+      "Là nguyên tố chiếm tỉ lệ cao nhất trong không khí",
+      "Ký hiệu hóa học là N",
+      "Chiếm khoảng 78% bầu khí quyển",
+      "Là thành phần thiết yếu của protein"
+    ],
+    "explanation": "Nitrogen (Nitơ) là khí chiếm phần lớn thể tích bầu khí quyển Trái Đất.",
+    "generated_at": "2026-11-16",
+    "generation_mode": "gemini_no_web_grounding"
   }
 ]

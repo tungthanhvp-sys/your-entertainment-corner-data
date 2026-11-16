@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "data_version": 11,
-  "updated_at": "2026-11-09",
+  "data_version": 12,
+  "updated_at": "2026-11-16",
   "minimum_app_version": "0.16.4",
   "packs": [
     {
@@ -28,7 +28,7 @@
     {
       "id": "keyword_round",
       "file": "keyword_round.json",
-      "version": 9,
+      "version": 10,
       "priority": 1,
       "enabled": true
     }
